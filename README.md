@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @igbagbo
-- 👀 I’m interested in Web development and cybersecurity 
+- 👀 I’m interested in Software Developer, Fullstack developer and Cybersecurity 
 - 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on Web development and cyber security 
-- 📫 How to reach me josephfaith@protonmail.ch
+- 💞️ I’m looking to collaborate and build my networks in #Tech 
+- 📫 Reach me josephfaith@protonmail.ch
 
 <!---
 igbagbo/igbagbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
