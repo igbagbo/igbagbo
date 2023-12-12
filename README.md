@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igbagbo
-- 👀 I’m interested in Software Developer and Cybersecurity 
+- 👀 I’m interested in Software Developer and Certified Ethical Hacking 
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate and build my networks in #Tech 
 - 📫 Reach me josephfaith@protonmail.ch
